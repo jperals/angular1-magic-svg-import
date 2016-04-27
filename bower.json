@@ -1,0 +1,20 @@
+{
+  "name": "svg-magic",
+  "authors": [
+    "Joan Perals <joan.perals@ixds.com>"
+  ],
+  "description": "AngularJS component that allows to build a prototype based on SVG fiels exported from Illustrator or Sketch",
+  "main": "./svg-magic.module.js",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}
